@@ -17,7 +17,7 @@
 # Main title
 
 # Use double hash for smaller title ##
-Ex: ## second title (it will look like below)
+ Ex: ## second title (it will look like below)
 ## Second title
 
 # Use three ### for third or more smaller title
@@ -42,5 +42,10 @@ for block of the code
 git add .
 
 git commit -m""code"
+ 
 
 git push -u origin main
+
+
+
+This file was edited
